@@ -64,3 +64,4 @@ $ git config --global user.name "User Namovich"
 $ git config --global user.email username@yandex.ru
 # здесь нужно указать свой настоящий email
 ```
+Все глобальные настройки Git хранит в файле .gitconfig в домашней директории. <br> Команда запишет в этот файл указанные имя и почту. Чтобы убедиться в этом, можно вызвать команду для чтения файлов.
